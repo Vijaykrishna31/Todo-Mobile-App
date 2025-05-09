@@ -7,8 +7,12 @@ A To-Do mobile application built with React Native (TypeScript) for the frontend
 ## Tech Stack
 
 **Frontend:** React Native, TypeScript, React Navigation, React Context API, Axios
+
 **Backend:** Node.js, Express.js, TypeScript, MongoDB (Mongoose), Firebase Authentication
+
 **Authentication:** Firebase (OTP via phone, Google Sign-In), JWT for session management
+
 **Optional Feature:** Task categories
+
 **Tools:** ESLint, Prettier, Husky (for code quality)
 
